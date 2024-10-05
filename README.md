@@ -1,4 +1,4 @@
-Tech used
+## Tech used
 1) MongoDB
 2) Express JS
 3) React JS
